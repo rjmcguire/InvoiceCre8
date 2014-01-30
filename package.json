@@ -1,0 +1,29 @@
+{
+  "name": "InvoiceCre8",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "~3.4.8",
+    "chai": "~1.8.1",
+    "arango": "~0.4.2",
+    "chai-as-promised": "~4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/modul8com/InvoiceCre8"
+  },
+  "author": "MODUL8.com BVBA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modul8com/InvoiceCre8/issues"
+  },
+  "homepage": "https://github.com/modul8com/InvoiceCre8"
+}
